@@ -16,6 +16,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-tok/)
+&nbsp;
+[![Contribution snake](https://github.com/tok-elif/tok-elif/actions/workflows/snake.yml/badge.svg)](https://github.com/tok-elif/tok-elif/actions/workflows/snake.yml)
 
 </div>
 
@@ -80,4 +82,3 @@
 <div align="center">
 <sub><code>// updated automatically · tok-elif</code></sub>
 </div>
-
