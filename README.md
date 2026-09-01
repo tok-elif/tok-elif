@@ -65,6 +65,16 @@
 
 ---
 
+## ⬡ &nbsp;Pixel Drive
+
+<div align="center">
+
+<img src="assets/robotaksi-pixel-headlights.gif" width="520" alt="Pixel-art autonomous vehicle with blinking headlights" />
+
+</div>
+
+---
+
 ## ⬡ &nbsp;Contribution Activity
 
 <div align="center">
