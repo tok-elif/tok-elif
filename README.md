@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tok-elif" alt="tok-elif GitHub streak" />
+<img src="./profile/streak.svg" alt="tok-elif GitHub streak" />
 
 </div>
 

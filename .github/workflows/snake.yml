@@ -2,7 +2,12 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 */6 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile/streak.svg"
   workflow_dispatch:
 
 permissions:
@@ -11,10 +16,11 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
